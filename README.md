@@ -18,8 +18,4 @@ I'm **Leticia Narumi Fujiharu** — a junior developer passionate about web tech
 
 ---
 
-<a href="https://app.rocketseat.com.br/me/leticia-narumi-fujiharu-05390">
-<img src="./Documentos/Dev/card.png" width="300" alt="Leticia Narumi Rocket ID"/>
-
-
 ✨ *“Always learning, always building.”*
