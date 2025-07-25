@@ -16,6 +16,8 @@ I'm **Leticia Narumi Fujiharu** — a junior developer passionate about web tech
 📫 You can find me on:  
 [Instagram](https://www.instagram.com/narumi.ink) | [LinkedIn](https://www.linkedin.com/in/leticia-narumi-fujiharu-7957a0283/) | [My Site](https://leticianarumi.github.io/Narumi.ink/)
 
+<a href="https://app.rocketseat.com.br/me/leticia-narumi-fujiharu-05390"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=leticia-narumi-fujiharu-05390&type=card" width="280" alt="Leticia Narumi Fujiharu's Rocket ID"/></a>
+
 ---
 
 ✨ *“Always learning, always building.”*
